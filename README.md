@@ -190,20 +190,4 @@ Decimal.TryParse(montantStr, NumberStyles.Any,
 
 ---
 
-## 🚧 Known Limitations & Future Work
-
-**Current limitations:**
-- Text file storage has performance limits at scale
-- No multi-user / concurrent access support
-- Risk of data corruption on unexpected shutdown
-
-**Planned improvements:**
-- Migrate storage to SQLite or SQL Server
-- Role-based authentication (Admin / Receptionist)
-- PDF report export
-- Graphical revenue charts
-- Web or mobile version
-
----
-
 > Developed by: **Ahmed Somai**
