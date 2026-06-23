@@ -8,15 +8,7 @@ A Windows Forms application built in **VB.NET** that digitizes and streamlines t
 
 ---
 
-## 🇫🇷 Language Note
-
-This application is fully in **French** — including:
-- All Windows Forms UI (labels, buttons, menus)
-- All error and confirmation messages (MessageBox)
-- All data files and field names
-- All variable and method naming conventions
-
-This was a requirement of the academic project at ISG Tunis.
+> ⚠️ **Note:** This application is entirely in French — all UI forms, messages, labels, and data files are written in French
 
 ## Features
 
