@@ -1,0 +1,58 @@
+# ─── Visual Studio ───────────────────────────────────────────
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ─── Build outputs ───────────────────────────────────────────
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+build/
+bld/
+*.TargetFrameworkInfos.xml
+
+# ─── NuGet ───────────────────────────────────────────────────
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+# Uncomment if you store NuGet packages in the repo:
+# !packages/build/
+
+# ─── Données de l'application (fichiers texte) ───────────────
+# Ces fichiers sont créés automatiquement au premier lancement
+data/membres.txt
+data/personnel.txt
+data/planning.txt
+data/activites.txt
+data/Paiment.txt
+*.txt
+
+# ─── Fichiers temporaires ────────────────────────────────────
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+
+# ─── Rapport de projet (DOCX) ────────────────────────────────
+*.docx
+*.doc
+*.pdf
+
+# ─── Fichiers de ressources compilés ─────────────────────────
+*.resx.designer
+*.Designer.vb
+
+# ─── Windows Forms Designer cache ────────────────────────────
+_Resharper*/
+*.DotSettings.user
