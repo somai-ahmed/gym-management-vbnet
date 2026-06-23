@@ -2,13 +2,23 @@
 
 ---
 
-## 📋 Description
+## Description
 
 A Windows Forms application built in **VB.NET** that digitizes and streamlines the full management of a gym facility: members, staff, class schedules, payments, and real-time statistics.
 
 ---
 
-## ✨ Features
+## 🇫🇷 Language Note
+
+This application is fully in **French** — including:
+- All Windows Forms UI (labels, buttons, menus)
+- All error and confirmation messages (MessageBox)
+- All data files and field names
+- All variable and method naming conventions
+
+This was a requirement of the academic project at ISG Tunis.
+
+## Features
 
 ### 🧑‍🤝‍🧑 Member Management
 - Registration with: first name, last name, date of birth, ID number (8 digits), address, phone
