@@ -8,8 +8,8 @@ A Windows Forms application built in **VB.NET** that digitizes and streamlines t
 
 ---
 
-> ⚠️ **Note:** This application is entirely in French — all UI forms, messages, labels, and data files are written in French
-
+> [!NOTE]
+> This application is entirely in **French** — all UI forms, buttons, menus, error messages, and data files are written in French
 ## Features
 
 ### 🧑‍🤝‍🧑 Member Management
