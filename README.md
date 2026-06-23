@@ -131,25 +131,25 @@ git clone https://github.com/somai-ahmed/gym-management-vbnet.git
 ### Members Module
 | Scenario | Result |
 |---|---|
-| Add member with valid data | ✅ Passed |
-| Duplicate ID number | ✅ Error shown |
-| Duplicate phone number | ✅ Error shown |
-| Letters typed in ID field | ✅ Blocked |
-| Delete a specific subscription | ✅ Passed |
+| Add member with valid data |  Passed |
+| Duplicate ID number |  Error shown |
+| Duplicate phone number |  Error shown |
+| Letters typed in ID field |  Blocked |
+| Delete a specific subscription |  Passed |
 
 ### Schedule Module
 | Scenario | Result |
 |---|---|
-| End time ≤ start time | ✅ Error shown |
-| Duration > 3 hours | ✅ Blocked |
-| Coach ComboBox filtered | ✅ Coaches only |
+| End time ≤ start time |  Error shown |
+| Duration > 3 hours |  Blocked |
+| Coach ComboBox filtered |  Coaches only |
 
 ### Payment Module
 | Scenario | Result |
 |---|---|
-| Auto-fill amount by type | ✅ Passed |
-| Duplicate payment | ✅ Detected |
-| Monthly revenue calculation | ✅ Correct |
+| Auto-fill amount by type |  Passed |
+| Duplicate payment |  Detected |
+| Monthly revenue calculation |  Correct |
 
 ---
 
