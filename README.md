@@ -1,10 +1,5 @@
 # 🏋️ Gym Management Application
 
-> **Event-Driven Programming Project** — Bachelor's in NTIC, ISG Tunis  
-> Developed by: **Ahmed Somai** | Group 2  
-> Supervised by: Ms. Mariem Ennigrou & Mr. Kamel Khemissi  
-> Academic Year: 2025–2026
-
 ---
 
 ## 📋 Description
@@ -209,12 +204,4 @@ Decimal.TryParse(montantStr, NumberStyles.Any,
 
 ---
 
-## 👤 Author
-
-**Ahmed Somai**  
-Bachelor's Student in NTIC — ISG Tunis  
-[github.com/somai-ahmed](https://github.com/somai-ahmed)
-
----
-
-*Academic project — Event-Driven Programming | ISG Tunis 2025–2026*
+> Developed by: **Ahmed Somai**
