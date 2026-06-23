@@ -42,7 +42,7 @@ A Windows Forms application built in **VB.NET** that digitizes and streamlines t
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 PROJET/
@@ -78,7 +78,7 @@ Mohamed Ben Ahmed;Monthly;90,00;Bank card;15/12/2025
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Details |
 |---|---|
